@@ -4,7 +4,7 @@ A test repository for publishing my first web page. This website is published at
 My first `push`. Altre canvi.
 
 ## Tema i motivació
-Explica **l’objectiu** de la web i la motivació per fer-la. Vinculació amb Geografia.
+En el marc de l'assignatura de Eines Web, Producció i disseny cartogràfic s'ha tingut que elaborar una pàgina web per tal de complir els obejctius de l'assignatura. La meva pàgina web s'anomena GRADOT (Grup de Recerca d'Anàlisis de Dinàmiques D'ordenació Territorial). He fetla pàgina web d'aquest tema perquè durant el transcurs de la carrera una de les temàtiques que mès m'ha agrdat és la dedicada a temes d'ordenació i desenvolupament territorial focalitzant en la zona del la província de Tarragona ja que és la més propera a aquesta facultat de Turisme i Geografia de la Universitat Rovira Virgili (URV).  
 
 ## Dades i continguts
 
