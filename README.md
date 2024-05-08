@@ -7,16 +7,16 @@ My first `push`. Altre canvi.
 En el marc de l'assignatura de Eines Web, Producció i disseny cartogràfic s'ha tingut que elaborar una pàgina web per tal de complir els obejctius de l'assignatura. La meva pàgina web s'anomena GRADOT (Grup de Recerca d'Anàlisis de Dinàmiques D'ordenació Territorial). He fet la pàgina web d'aquest tema perquè durant el transcurs de la carrera una de les temàtiques que mès m'ha agrdat és la dedicada a temes d'ordenació i desenvolupament territorial focalitzant en la zona del la província de Tarragona ja que és la més propera a aquesta facultat de Turisme i Geografia de la Universitat Rovira Virgili (URV).  
 
 ## Dades i continguts
-
+La idea de realitzar GRADOT, bé de prendre de referència el Grup de Recerca GRATET de la URV.
 Una imatge d'exemple:
 ![Un dia al campus de la FTG](./images/imatge-de-prova.jpg "Un dia al campus de la FTG").
 
 D’on s’han tret:
 
-- dades, 
-- text, 
-- fotos, 
-- etc
+- La inspiració per realitzar ha sigut la pàgina web de GRATET i les dades m'he inspirat en treballs que hem realitzat al llarg del Grau de Geografia, Ànalisi Territorial i Sostenibilitat 
+- El text ha sigut inscrit per inspiració própia. 
+- Les imatges s'han extret de internet moltes d'elles, per no dir totes. 
+
 
 ## Estructura de la Web. 
 L’estructura de l’estructura web, és molt senzilla compta amb 5 grans pàgines: Inici, Membres, Projectes, Mapa i Formulari de Contacte. 
@@ -36,8 +36,9 @@ Entre mig del footer i header, hi ha el body o cos, cada apartat te un layout di
 
 
 ## Web responsive
-Per tal d’ajudar i facilitar la comprensió en totes les pantalles s’ha aplicat un responsive per els 3 tamanys de dimensió de dispositius. A continuació a l’imatge 4, podem veure el responsive aplicat. Per l'aplicació del responsive s'han utilitzat @media querys. 
+Per tal d’ajudar i facilitar la comprensió en totes les pantalles s’ha aplicat un responsive per els 3 tamanys de dimensió de dispositius. A continuació a l’imatge 4, podem veure el responsive aplicat. Per l'aplicació del responsive s'han utilitzat @media queries. 
 Per les pantalles mitjanes i grans i ficat un minim en canvi per les petites no. 
+
 ![RESPONSIVE](https://github.com/AlbertRoviraDuch/test/assets/168575868/d9106258-308e-44d7-bc81-58747eb4b552)
 
 ## Cartografia
@@ -46,6 +47,6 @@ Cóm s’han integrat i elaborat els mapes que apareixen a la web.
 ## Dificultats/millores
 Reflexiona proactivament sobre el producte elaborat.
 
-1. Primera dificultat
-1. Segona dificultat
-1. Tercera dificultat
+1. Anteriorment a l'assignatura mai he treballat amb ninguna cosa relacionada amb programació llavors al començar m'ha costat adpatar-m'hi al Visual Studio Code,Github, CSS, HTML i Java Script
+2. Sòc una persona desdendraçada amb carpetes i fitxers de l'ordenador i m'ha costat manejar el Visual Studio Code amb els diferents apartats
+3. Al ser un novat amb la programació hi havia coses que m'hagues agrdat fer i no he pogut perquè els meus coneixemnts de programació són molt bàsics
