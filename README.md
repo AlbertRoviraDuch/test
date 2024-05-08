@@ -11,8 +11,6 @@ En el marc de l'assignatura de Eines Web, Producció i disseny cartogràfic s'ha
 Una imatge d'exemple:
 ![Un dia al campus de la FTG](./images/imatge-de-prova.jpg "Un dia al campus de la FTG").
 
-
-
 D’on s’han tret:
 
 - dades, 
@@ -40,6 +38,7 @@ Entre mig del footer i header, hi ha el body o cos, cada apartat te un layout di
 ## Web responsive
 Per tal d’ajudar i facilitar la comprensió en totes les pantalles s’ha aplicat un responsive per els 3 tamanys de dimensió de dispositius. A continuació a l’imatge 4, podem veure el responsive aplicat. Per l'aplicació del responsive s'han utilitzat @media querys. 
 Per les pantalles mitjanes i grans i ficat un minim en canvi per les petites no. 
+![RESPONSIVE](https://github.com/AlbertRoviraDuch/test/assets/168575868/d9106258-308e-44d7-bc81-58747eb4b552)
 
 ## Cartografia
 Cóm s’han integrat i elaborat els mapes que apareixen a la web.
